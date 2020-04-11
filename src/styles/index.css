@@ -1,0 +1,9 @@
+.style1 .btn {
+  background-color: blue;
+  font-size: 80px;
+  opacity: 0.5;
+}
+.style2 .btn {
+  background-color: red;
+  margin: 20px;
+}
